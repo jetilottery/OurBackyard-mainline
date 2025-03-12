@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch3.webm",
+    "ch3.mp3",
+    "ch3.ogg"
+  ],
+  "sprite": {
+    "Lucky Numbers reveal": [
+      0,
+      1584.7619047619048
+    ],
+    "UI Max Bet Reached 3": [
+      2500,
+      1369.9773242630386
+    ]
+  }
+}

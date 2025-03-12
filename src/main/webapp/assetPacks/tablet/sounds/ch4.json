@@ -1,0 +1,17 @@
+{
+  "urls": [
+    "ch4.webm",
+    "ch4.mp3",
+    "ch4.ogg"
+  ],
+  "sprite": {
+    "UI Generic Click2": [
+      0,
+      500.02267573696145
+    ],
+    "YourNumberReveal_v2": [
+      1500,
+      1544.1269841269843
+    ]
+  }
+}
